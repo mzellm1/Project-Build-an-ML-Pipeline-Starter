@@ -177,6 +177,8 @@ Please, make sure all steps are using **the same** python version and that you h
 
 Link to the public project on W&B: https://wandb.ai/matthewazellmer91-wgu/nyc_airbnb?nw=nwusermatthewazellmer91
 
+Link to project on Github: https://github.com/mzellm1/Project-Build-an-ML-Pipeline-Starter
+
 ## License
 
 [License](LICENSE.txt)
