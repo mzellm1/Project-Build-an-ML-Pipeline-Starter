@@ -175,6 +175,7 @@ If you see the any error while running the command:
 
 Please, make sure all steps are using **the same** python version and that you have **conda installed**. Additionally, *mlflow* and *wandb* packages are crucial and should have the same version.
 
+Link to the public project on W&B: https://wandb.ai/matthewazellmer91-wgu/nyc_airbnb?nw=nwusermatthewazellmer91
 
 ## License
 
